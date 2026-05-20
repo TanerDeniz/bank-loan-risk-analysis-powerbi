@@ -77,21 +77,21 @@ Granular loan-level data including:
 
 ## 📂 Project Files
 - `bank_loan_dashboard.pbix`
-- `screenshots/summary.png`
-- `screenshots/overview.png`
-- `screenshots/details.png`
+- `images/summary.png`
+- `images/overview.png`
+- `images/details.png`
 
 ---
 
 ## 📸 Dashboard Preview
 
 ### Summary Dashboard
-![Summary Dashboard](screenshots/summary.png)
+![Summary Dashboard](images/summary.png)
 
 ### Overview Dashboard
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard](images/overview.png)
 
 ### Details Dashboard
-![Details Dashboard](screenshots/details.png)
+![Details Dashboard](images/details.png)
 - Business Intelligence
 - Data Storytelling
