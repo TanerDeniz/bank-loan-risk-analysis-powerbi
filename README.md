@@ -93,13 +93,5 @@ Granular loan-level data including:
 
 ### Details Dashboard
 ![Details Dashboard](screenshots/details.png)
-
----
-
-## 🚀 Skills Demonstrated
-- KPI Dashboard Design
-- Financial Data Analysis
-- Risk Segmentation
-- Interactive Reporting
 - Business Intelligence
 - Data Storytelling
